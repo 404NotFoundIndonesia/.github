@@ -4,4 +4,4 @@
 
 ### Source Code
 #### Laravel
-- [Aplikasi Surat Menyurat v1](https://github.com/404NotFoundIndonesia/laravel-surat-menyurat-v1) (_10 Desember 2022_)
+- [Aplikasi Surat Menyurat v1](https://www.youtube.com/watch?v=dyatVEGavxo) (_10 Desember 2022_)
