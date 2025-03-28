@@ -1,10 +1,16 @@
 # 404 Not Found Indonesia  
 
-**404 Not Found Indonesia** adalah komunitas yang berfokus pada pengembangan dan berbagi proyek open-source berkualitas tinggi. Kami menggunakan berbagai teknologi dan pendekatan inovatif untuk menciptakan solusi yang dapat membantu developer di seluruh dunia.  
+**404 Not Found Indonesia** adalah komunitas yang berfokus pada pengembangan dan berbagi proyek open-source berkualitas tinggi. Kami menggunakan berbagai teknologi dan pendekatan inovatif untuk menciptakan solusi yang dapat membantu developer di seluruh dunia. 
 
-💻 **Akses source code berkualitas & percepat proyek Anda!**  
+<details>
+<summary>English</summary>
 
-🔗 **Kunjungi landing page kami:** [404notfound.fun](https://404notfound.fun/)  
+_**404 Not Found Indonesia** is a community focused on developing and sharing high-quality open-source projects. We utilize various technologies and innovative approaches to create solutions that help developers worldwide._
+
+</details> 
+
+
+🔗 [404notfound.fun](https://404notfound.fun/)  
 
 ---  
 
@@ -12,9 +18,13 @@
 
 ### ✅ Completed  
 
+-   **[Kamus Banjar Mobile App](https://github.com/404NotFoundIndonesia/kamus-banjar-mobile-app)**  
+    _Kamus Banjar is a mobile application designed to provide users with a comprehensive dictionary of the Banjar language. The app will allow users to search for Banjar words, view their meanings in Indonesian, and access additional linguistic information._
+    <img alt="Kamus Banjar Mobile App" src="./screenshot/kamus-banjar-mobile-app.jpg" />
 -   **[Laravel Laundry App v1](https://github.com/404NotFoundIndonesia/laravel-laundy-app-v1)**  
 -   **[Laravel Surat Menyurat v1](https://github.com/404NotFoundIndonesia/laravel-surat-menyurat-v1)**  
     _Aplikasi disposisi surat masuk dan keluar berbasis web menggunakan Laravel 9._  
+    <img alt="Laravel Surat Menyurat v1" src="./screenshot/laravel-surat-menyurat-v1.png" />
 -   **[Aplikasi Pembayaran SPP](https://github.com/404NotFoundIndonesia/aplikasi-pembayaran-spp)**  
     _Aplikasi pembayaran SPP untuk UJK RPL 2022/2023._  
 -   **[EasyNote Backend Go](https://github.com/404NotFoundIndonesia/easynote-backend-go)**  
@@ -24,6 +34,9 @@
 
 ### 🔄 In Progress  
 
+-   **[Hyperion](https://github.com/404NotFoundIndonesia/hyperion)**  
+    _Hyperion is a lightweight yet powerful obfuscator designed to make your code harder to analyze and reverse-engineer. By transforming code structure without affecting functionality, Hyperion helps protect intellectual property and enhance security against tampering._ 
+    <img alt="Hyperion" src="./screenshot/hyperion.jpg" /> 
 -   **[Taskita](https://github.com/404NotFoundIndonesia/taskita)**  
     _Aplikasi manajemen tugas berbasis web untuk meningkatkan produktivitas._  
 -   **[Raktrek](https://github.com/404NotFoundIndonesia/raktrek)**  
