@@ -151,3 +151,5 @@ _EasyNote is a straightforward note-taking application designed to provide users
 ---
 
 🚀 Butuh solusi khusus untuk proyek Anda? Kami juga menyediakan layanan pengembangan dan customisasi aplikasi. Hubungi kami melalui [404notfound.fun](https://404notfound.fun/) untuk informasi lebih lanjut!  
+
+_🚀 Need a custom solution for your project? We also offer development and application customization services. Contact us at [404notfound.fun](https://404notfound.fun/) for more information!_
